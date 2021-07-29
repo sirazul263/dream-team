@@ -1,0 +1,12 @@
+.body {
+  display: flex;
+}
+.player {
+  width: 75%;
+  color: rgb(15, 1, 10);
+  border-right: 1px solid lawngreen;
+}
+.details {
+  color: aliceblue;
+  margin-left: 20px;
+}

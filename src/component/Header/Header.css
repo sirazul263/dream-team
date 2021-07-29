@@ -1,0 +1,15 @@
+#search-box {
+  margin-left: 400px;
+  margin-right: 40px;
+}
+#nav-item a {
+  margin-left: 20px;
+  color: white;
+}
+.navbar-brand img {
+  height: 40px;
+  margin-left: 50px;
+}
+.search-btn {
+  color: aliceblue;
+}
